@@ -1,0 +1,7 @@
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\bin\Debug\Primeiro_TIM.exe.config
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\bin\Debug\Primeiro_TIM.exe
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\bin\Debug\Primeiro_TIM.pdb
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\obj\Debug\Primeiro_TIM.csproj.AssemblyReference.cache
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\obj\Debug\Primeiro_TIM.csproj.CoreCompileInputs.cache
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\obj\Debug\Primeiro_TIM.exe
+C:\Users\NICANOR\OneDrive\Área de Trabalho\ProjetoC#\Primeiro_TIM\obj\Debug\Primeiro_TIM.pdb
