@@ -4,6 +4,8 @@
 
 instituto de ensino: (Escola Técnica Estadual Fernando Prestes sorocaba-SP)
 
+matéria: PROGRAMAÇÃO DE COMPUTADORES I
+
 ##Status do projeto: finalizado
 
 ##Licença: MIT License
